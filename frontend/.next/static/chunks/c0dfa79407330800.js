@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,77855,t=>{"use strict";function o(){return{toast:t=>{console.log("Toast:",t)}}}function s(){return null}t.s(["Toaster",()=>s],98535),t.i(98535),t.s(["Toaster",()=>s,"useToast",()=>o],77855)}]);
