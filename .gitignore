@@ -10,3 +10,8 @@ yarn-debug.log*
 yarn-error.log*
 .idea/
 .vscode/
+.next/
+out/
+next-env.d.ts
+.turbo/
+
